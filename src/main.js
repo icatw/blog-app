@@ -14,6 +14,9 @@ import '@/assets/icon/iconfont.css'
 
 import {formatTime} from "./utils/time";
 
+import vueAplayer from 'vue-aplayer'
+
+Vue.use(vueAplayer)
 
 Vue.config.productionTip = false
 
