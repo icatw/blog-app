@@ -70,21 +70,21 @@ export default {
           theme: "rgb(127, 218, 180)", // 播放这首歌曲时的主题色
         },
         {
-          name: "女儿情",
-          artist: "古筝-付娜",
+          name: "哪里都是你",
+          artist: "队长",
           url:
-            "https://sharefs.ali.kugou.com/202110281338/150a7c708ed5e20a47e8a9b80cf1200a/G235/M00/0F/05/i4cBAF77vP2AFdNjAChBofqgQnw363.mp3",
+            "https://sharefs.ali.kugou.com/202203051017/40938031ed20565fc117c82b027ec884/G113/M01/00/15/UZQEAFmvs_GAWEvMADZhzt1fmGQ829.mp3",
           cover: "http://imge.kugou.com/stdmusic/150/20200606/20200606220631519630.jpg",
-          lrc: "",
+          lrc: "../../static/lrc/哪里都是你-队长.lrc",
           theme: "rgb(61, 162, 230)",
         },
         {
-          name: "故郷の原風景",
-          artist: "陶笛-犹豫的泥巴",
+          name: "飞船失事",
+          artist: "Tizzy T",
           url:
-            "https://sharefs.ali.kugou.com/202110281310/bdb53444846cecd8d45a64e2aab3b6ca/G228/M0A/1B/13/xJQEAF9kx46AZ3IaAEjEvnEtWQw706.mp3",
-          cover: "http://imge.kugou.com/stdmusic/150/20200812/20200812134914113741.jpg",
-          lrc: "",
+            "https://sharefs.ali.kugou.com/202203051019/dceab43916f27490bb3eab16b3ba4d88/KGTX/CLTX001/a9c159af53d7b051a575f4737683ec0e.mp3",
+          cover: "https://p1.music.126.net/RIoutexhj0ssRt625Agh_w==/109951167035823879.jpg",
+          lrc: "../../static/lrc/飞船失事-Tizzy T.lrc",
           theme: "#baf",
         },
       ],
